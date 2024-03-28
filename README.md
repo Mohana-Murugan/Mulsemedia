@@ -4,6 +4,3 @@ Mulsemedia, short for multimedia and multisensory media, refers to a concept tha
 We have designed a portal called Technology Enhanced Mulsemedia for STEM Education with olfactory, verbatim, and haptic senses to provide immersive learning experiences.
 
 ![Technology Enhanced Mulsemedia Learning Web Portal](https://github.com/Mohana-AI/Mulsemedia/blob/main/Mulsemedia-portal/fig1.jpg)
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/Mohana-AI/Mulsemedia/blob/main/Mulsemedia-portal/fig-7.png)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/Mohana-AI/Mulsemedia/blob/main/Mulsemedia-portal/fig-7.PNG)
